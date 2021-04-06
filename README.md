@@ -5,6 +5,7 @@ Use this Anki deck to familiarize yourself with the vocabulary used in the Wonde
 
 I created this deck while watching through Wonder Egg Priority for the first time. Because this deck was created for personal use, I did not include words/phrases that are already easy for me to recall--therefore, it is best used by Intermediate-level Japanese students (or somewhere around N4-N3 of the JLPT). There is no romaji, and in most cases, the dictionary form of a verb is used in the deck, regardless of its use in context in the anime.
 
+All definitions are from https://jisho.org.
 You can download the Anki desktop application at https://apps.ankiweb.net.
 You can watch the Wonder Egg Priority series on Funimation at https://www.funimation.com/shows/wonder-egg-priority/?qid=. Watch without subtitles for the best quality learning experience. ;)
 
